@@ -15,7 +15,7 @@
 ## Структура репозитория
 
 ```text
-purchase-dashboard/
+Purchase-dashboard-tableau/
 ├── purchase_overview.twb
 ├── superstore_data.xls
 └── images/
